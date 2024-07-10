@@ -21,6 +21,7 @@ https://www.kaggle.com/datasets/subhamsarkar2002/mobile-health-apps-evaluation-d
 4. What is the difference in the average number of app ratings when a clinical expert is involved in development or isn’t?
     1. When a clinician is involved in app development, we observe a notable difference in average ratings between iOS and Android platforms. Specifically, apps with clinician involvement tend to receive approximately 44% more ratings on iOS compared to Android. This inverse relationship suggests that clinician input may influence user engagement and feedback differently across these platforms
     2.  Are these differences statistically significant?
+
 **Hypotheses:**
 - \( H_0 \): There is no association between clinical expert involvement in app development and the number of iOS ratings.
 - \( H_1 \): There is an association between clinical expert involvement in app development and the number of iOS ratings.

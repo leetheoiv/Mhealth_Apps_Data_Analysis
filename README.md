@@ -1,6 +1,6 @@
 # Mhealth Apps Data Analysis
 # Final Product
-![Example Image](/Mhealth Dashboard.png)
+![Example Image](\Mhealth Dashboard.png)
 # Data Source 
 https://www.kaggle.com/datasets/subhamsarkar2002/mobile-health-apps-evaluation-dataset**
 # Tools Used
@@ -63,5 +63,5 @@ involvement significantly influences the number of Android ratings.
   - p-value: 0.98
 - Significance level (alpha): 0.05
 
-Based on the ANOVA results, we fail to reject the null hypothesis for both iOS and Android average ratings at a significance level of 0.01. This suggests that there is insufficient evidence to conclude that there is a significant difference in average app rating across different developer categories. Therefore, we must accept the null hypothesis and reject the alternative hypothesis in both cases.
+Based on the ANOVA results, we fail to reject the null hypothesis for both iOS and Android average ratings at a significance level of 0.05. This suggests that there is insufficient evidence to conclude that there is a significant difference in average app rating across different developer categories. Therefore, we must accept the null hypothesis and reject the alternative hypothesis in both cases.
 

@@ -1,6 +1,6 @@
 # Mhealth Apps Data Analysis
 # Final Product
-![Example Image]([Mhealth Dashboard.png](https://github.com/leetheoiv/Mhealth_Apps_Data_Analysis/blob/main/Mhealth%20Dashboard.png))
+![Example Image](https://github.com/leetheoiv/Mhealth_Apps_Data_Analysis/blob/main/Mhealth%20Dashboard.png)
 # Data Source 
 https://www.kaggle.com/datasets/subhamsarkar2002/mobile-health-apps-evaluation-dataset
 # Tools Used

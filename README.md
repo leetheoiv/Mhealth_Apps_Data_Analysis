@@ -6,6 +6,9 @@ https://www.kaggle.com/datasets/subhamsarkar2002/mobile-health-apps-evaluation-d
 # Tools Used
 - Python (Pandas, Scipy)
 - PowerBI
+
+## Overview
+- Mental health apps, also known as mHealth apps, are designed to help users manage mental health issues such as depression, anxiety, and other conditions. These apps are required to adhere to FDA regulations, but this doesn't necessarily mean that developers undergo rigorous testing before publishing their apps or acquiring users. The primary obligation is to ensure compliance with FDA guidelines related to health applications. Although numerous mental health apps are available on app stores, many lack clinical testing, which raises questions about their efficacy. In this project, I developed a dashboard to review and analyze mHealth apps using a dataset provided by The Machine Learning for Learning Health Systems Research Lab, with the goal of exploring the landscape of these applications.
 ## Research Questions
 1. How many applications have been made with clinicians involved in the process?
     1. Out of all the applications reviewed, approximately 64% lacked any involvement from clinical professionals during their development. This statistic is concerning, considering the critical role clinicians play in ensuring that these apps deliver accurate feedback and information to patients. Clinician input is essential not only for maintaining the quality and reliability of health-related apps but also for fostering trust and confidence among users in their healthcare journey.
